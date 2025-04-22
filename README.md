@@ -1,4 +1,4 @@
 # Shadow-Relic
-C# Unity engine game
-RPG
-Open world
+C# Unity engine game  
+RPG  
+Open world  
